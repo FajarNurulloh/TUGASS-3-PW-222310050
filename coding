@@ -118,7 +118,7 @@
                 return;
             }
 
-            if (email == '2223100422@student.ibik.ac.id' && password == '222310042'){
+            if (email == '222310050@student.ibik.ac.id' && password == '222310050'){
                 alert("Email: " + email +"\nPassword: " + password);
                 btnSubmit.textContent = 'Success Sign In';
             }else{
